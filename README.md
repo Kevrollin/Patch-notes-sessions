@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![PatchNotes Banner](https://via.placeholder.com/1200x300/4A90E2/FFFFFF?text=PatchNotes+-+Tech+Blog+%26+Learning+Hub)
+![PatchNotes Banner](./assets/banner.png)
 
 **A tech blog and source code repository where code meets knowledge**
 
