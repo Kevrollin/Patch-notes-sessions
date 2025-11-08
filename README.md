@@ -18,7 +18,7 @@
 
 ---
 
-## 🎯 About PatchNotes
+## About PatchNotes
 
 **PatchNotes** is both a **tech blog** and **source code repository** where I share hands-on learning experiences, real-world projects, and technical deep-dives. Each article comes with its own folder containing complete, runnable code examples—because the best way to learn is by doing.
 
